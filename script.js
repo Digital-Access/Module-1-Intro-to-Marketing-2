@@ -7,7 +7,7 @@ const config = {
     celebration_image: "https://a.storyblok.com/f/112136/205x150/12867bb205/sporting-hero.png",
     placeholder_text: "Type your answer here",
     image_on: false,
-    image: "https://a.storyblok.com/f/112136/130x160/731788149f/avatar_matt-owen.png",
+    image: "https://a.storyblok.com/f/112136/130x160/731788149f/avatar_matt-owen.png"
 }
 
 const title = document.getElementById('title');
